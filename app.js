@@ -62,3 +62,10 @@
 // else{console.log("Sorry, you'll have to wait, or go get a snack.");}
 
 // QUESTION 15(answer)
+var time = (+prompt("ENTER A VALID TIME"))
+if (time>=0 && time<1200 ) {console.log("GOOD MORNING !");
+}
+else if (time>=1200 && time<1700) {console.log("GOOD AFTERNOON !");}
+else if (time>=1700 && time<2100) {console.log("GOOD EVENING !");}
+else if (time>=2100 && time<2359) {console.log("GOOD NIGHT !");}
+else {console.log("DO IT CORRECT");}
