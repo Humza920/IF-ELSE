@@ -125,3 +125,12 @@
 // console.log(num1!==num2)
 
 // QUESTION 17(answer)
+// var vowel = (prompt("ENTER"))
+// var tom = (true)
+// var tomy = (false)
+// if (vowel=="a") {console.log(tom);}
+// else if (vowel=="e") {console.log(tom);}
+// else if (vowel=="i") {console.log(tom);}
+// else if (vowel=="o") {console.log(tom);}
+// else if (vowel=="u") {console.log(tom);}
+// else {console.log(tomy);}
