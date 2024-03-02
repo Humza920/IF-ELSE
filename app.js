@@ -118,3 +118,10 @@
 // else if (month===11) {alert("ITS NOVEMBER");}
 // else if (month===12) {alert("ITS DECEMBER");}
 // else {alert("NOT PRESENT");}
+
+// QUESTION 18(answer)
+// var num1 = (10)
+// var num2 = (8)
+// console.log(num1!==num2)
+
+// QUESTION 17(answer)
